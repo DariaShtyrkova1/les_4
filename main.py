@@ -74,3 +74,4 @@ if __name__ == '__main__':  # пишем этот скрипт, чтобы по�
     currency_rates('AUD')
     currency_rates('eur')
     currency_rates('usd')
+
